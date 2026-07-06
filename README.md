@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/sivashankar-m">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sivamohankvp@gmail.com">
+<a href="mailto:sivashankaranss22@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=sivashankaran22&style=flat-square&color=70a5fd" alt="profile views"/>
